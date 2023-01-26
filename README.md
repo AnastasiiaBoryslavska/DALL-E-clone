@@ -1,10 +1,13 @@
-
 ## _DALL-E clone_
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This project is an image generation tool that utilizes OpenAI's technology to generate unique and high-quality images.
+
+## Hosted Project
+
+**[DALL-E clone]   <-  Check the hosted project**
 
 ## Features
 
@@ -29,3 +32,7 @@ This project is an image generation tool that utilizes OpenAI's technology to ge
 
 - Hat tip to the OpenAI team for providing the image generation technology used in this project.
 - Inspiration for this project came from the need for a simple, user-friendly image generation tool.
+
+
+[//]: # 
+[DALL-E clone]: <https://dall-e-clone-project.netlify.app>
